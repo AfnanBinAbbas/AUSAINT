@@ -13,7 +13,6 @@ This project aims to develop a free and secure **Open-Source Intelligence (OSINT
 ## Features
 - **Social Media Intelligence (SOCMINT)**: Profile lookup, leaked credentials detection
 - **IP & Domain Intelligence**: WHOIS lookup, geolocation, DNS analysis
-- **Dark Web Monitoring**: Hidden service searches (Tor)
 - **Email & Phone OSINT**: Breach checks, data validation
 - **Web Scraping for OSINT**: Detect exposed files, subdomains
 - **Secure Reporting**: Export data as structured reports
@@ -41,8 +40,8 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-repo/osint-tool.git
-cd osint-tool
+git clone https://github.com/shaminadurrani03/AUSAINT.git
+cd AUSAINT.git
 ```
 
 ### Backend Setup
