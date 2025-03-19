@@ -1,6 +1,6 @@
 # Open-Source OSINT Tool for Investigators
 
-## Team ASUA
+## Team AUSA
 **Team Members:**
 - Muhammad Umar Maqsood
 - Shamina Durrani
