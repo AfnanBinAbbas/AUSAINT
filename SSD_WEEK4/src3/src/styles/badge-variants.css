@@ -1,0 +1,6 @@
+
+/* Additional badge variants */
+.badge-success {
+  background-color: hsl(var(--success));
+  color: hsl(var(--success-foreground));
+}
