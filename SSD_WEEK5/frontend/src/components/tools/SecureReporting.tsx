@@ -8,6 +8,7 @@ import { Label } from "@/components/ui/label";
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
 import { Separator } from "@/components/ui/separator";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import DownloadReport from "../DownloadReport";
 
 export function SecureReporting() {
   const [reportType, setReportType] = useState("standard");
@@ -225,6 +226,8 @@ export function SecureReporting() {
               </Button>
             </CardFooter>
           </Card>
+          <Separator className="my-6" />
+          <DownloadReport />
         </TabsContent>
         
         <TabsContent value="history">
